@@ -200,9 +200,8 @@ if($helperWhile==1){
  ?>
 
 
-<!-- DI HALAMAN CETAK DITAMPILKAN JUGA KRITERIA PRIOROTAS PENERIA  " SLAMET TERPILIH MENJSDI PRIORITAS KARENA GAJINYA < Rp.500.000" 
-
-TOMBOL PRINT BELOM FUNGSI
-TOMBOL SIMPAN DIGUNAKAN UNTUK MENYIMPAN HASIL PERHITUNGAN KE DALAM DATABSE
+<!-- tambahkan tombol print dan simpan
+TOMBOL PRINT untuk mencetak hasil akhir perhitungan, (no,no_kk, nama, nilai, cluster)
+TOMBOL SIMPAN untuk menyimpan hasil akhir perhitungan ke dalam tabel. (tabel belum ada)
 
 -->
